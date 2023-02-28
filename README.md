@@ -1,6 +1,6 @@
 # Java-Practice
 
-History of Java:
+<b>History of Java:</b>
 
 Developed by James Gosling at Sun Microsystems and release in 1995. Initially, it was called Oak. Java is an Island and Java Coffee.
 
