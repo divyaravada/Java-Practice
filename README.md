@@ -52,7 +52,7 @@ Syntax: operand1 + operand2;  , operand1 - operand2;
 Syntax:Variable_Name = value
 
 
-Unary Operator:
+<strong>Unary Operator:</strong>
 
 •	Unary minus (-): It used to convert in a negative number.
 
@@ -65,18 +65,18 @@ Unary Operator:
 Syntax: operand++, operand--, ~(operand), !(operand)
 
 
-Relational: These operators are used to check the relations between two values. It returns the Boolean result.
+<strong>Relational:</strong> These operators are used to check the relations between two values. It returns the Boolean result.
 
 Syntax: var1 == var2; var1 != var2; var1 > var2; var1 >= var2
 
 
-Ternary: The ternary operator is an alternate version of the if-else statement. It is based on condition. It has three operands.
+<strong>Ternary: </strong>The ternary operator is an alternate version of the if-else statement. It is based on condition. It has three operands.
 
 Syntax: Condition ? first statement : second statement;
 
 
 
-Logical:
+<strong>Logical:</strong>
 
 Logical And (&&): will return true if both conditions are true.
 
@@ -97,5 +97,20 @@ Bitwise XOR(^) This operator is a binary operator, denoted by '^'. Corresponding
 
 				 
 Bitwise complement (~) This operator is unary operator, denoted by ~ . it returns the one's complement representation of the input value, i.e., it makes every 0 to 1,  and every 1 to 0
+
+
+<strong>Control Flow Statement</strong>
+Using control statements we can control the flow of Java code
+
+3types of control flow statements
+
+•	Conditional statements
+
+•	Loop statements
+
+•	Jump statements
+
+
+
 
 	
