@@ -52,4 +52,50 @@ Syntax: operand1 + operand2;  , operand1 - operand2;
 Syntax:Variable_Name = value
 
 
+Unary Operator:
+
+•	Unary minus (-): It used to convert in a negative number.
+
+•	Unary plus (+): It used to convert in a positive number.
+
+•	Increment operator (++): it increments the value by 1
+
+•	Decrement operator (--): it decrements the value by 1
+
+Syntax: operand++, operand--, ~(operand), !(operand)
+
+
+Relational: These operators are used to check the relations between two values. It returns the Boolean result.
+
+Syntax: var1 == var2; var1 != var2; var1 > var2; var1 >= var2
+
+
+Ternary: The ternary operator is an alternate version of the if-else statement. It is based on condition. It has three operands.
+
+Syntax: Condition ? first statement : second statement;
+
+
+
+Logical:
+
+Logical And (&&): will return true if both conditions are true.
+
+Logical Or (||): It will return true if at least one condition is true.
+
+Logical NOT (!): It is used to reverse the state of the variable.
+
+Syntax: Cond1 && Cond2; , Cond1 || Cond2;  , !(Cond);
+
+
+Bitwise OR(|) : This operator is a binary operator, denoted by ‘|’ . either of the bits is 1, it gives 1, else it gives 0.
+
+
+Bitwise  AND (&) : This operator is binary operator, denoted by ‘&’. Both bits are 1, it gives 1, else it gives 0.
+
+
+Bitwise XOR(^) This operator is a binary operator, denoted by '^'. Corresponding bits are different, it gives 1 else it gives 0.
+
+				 
+Bitwise complement (~) This operator is unary operator, denoted by ~ . it returns the one's complement representation of the input value, i.e., it makes every 0 to 1,  and every 1 to 0
+
 	
